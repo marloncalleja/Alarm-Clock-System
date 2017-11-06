@@ -4,4 +4,4 @@ The application of a real-time-clock chip allows for the activation of a blinds 
 
 The 'source' folder contains the code for such implementation, schematics and datasheets were added to 'utility'.
 
-Further project details can be found with the attached write-up (PDF file).
+Further project details can be found inside the attached write-up (PDF file).
